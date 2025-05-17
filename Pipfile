@@ -8,6 +8,8 @@ flask = "==3.1.0"
 python-dotenv = "==1.1.0"
 ultralytics = "*"
 itsdangerous = "==2.2.0"
+moviepy = "*"
+flask-socketio = "==5.5.1"
 
 [dev-packages]
 

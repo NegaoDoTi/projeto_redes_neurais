@@ -181,3 +181,11 @@ Pipfile.lock
 *.jpg
 *.jpeg
 *.gif
+*.mp4
+*.avi
+*.mov
+*.mpeg
+*.wmv
+*.mkv
+
+flask_venv/
