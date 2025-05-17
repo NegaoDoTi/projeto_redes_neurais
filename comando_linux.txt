@@ -7,6 +7,8 @@ libopencv-dev x264 libx264-dev libssl-dev ffmpeg
 
 python -m venv ./flask_venv
 
+source ./flask_venv/bin/activate
+
 pip install -r requirements.txt
 
 pip uninstall opencv-python

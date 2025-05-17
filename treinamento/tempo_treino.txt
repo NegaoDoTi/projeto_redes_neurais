@@ -1,0 +1,4 @@
+Tempo de treino: 0:29:54.827438
+Tempo médio por época: 17.38 segundos
+
+arquivo: epoch_times.txt é aonde esta tempo de treino de cada epoca
