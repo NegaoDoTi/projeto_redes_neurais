@@ -176,3 +176,8 @@ cython_debug/
 Pipfile.lock
 
 *test*.py
+
+*.png
+*.jpg
+*.jpeg
+*.gif
