@@ -177,7 +177,7 @@ Pipfile.lock
 
 *test*.py
 
-*.png
+# *.png
 *.jpg
 *.jpeg
 *.gif
